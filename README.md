@@ -1,4 +1,4 @@
-# Basic example of Vaadin Registratin From with Spring Boot & Spring Data
+# Basic example of Vaadin Form with Spring Boot & Spring Data
 
 The example contains a view that submits competition registrations. The UI is similar to what you might have seen in Vaadin expo booth. 
 
