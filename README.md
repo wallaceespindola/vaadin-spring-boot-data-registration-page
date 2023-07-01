@@ -1,4 +1,4 @@
-# Basic Vaadin and Spring Boot example 
+# Basic example of Vaadin Registratin From with Spring Boot & Spring Data
 
 The example contains a view that submits competition registrations. The UI is similar to what you might have seen in Vaadin expo booth. 
 
@@ -11,6 +11,8 @@ In addition this version submits the registrations to a [JPA backend](https://do
 You can use it as a basis for your Vaadin experiments. To play around with the example, check it out using git or download the zip. Import it to your favorite IDE and execute the Application class or start the app from command line using: 
 
     git clone https://github.com/vaadin/registration-example.git
+    or
+    git@github.com:wallaceespindola/vaadin-spring-boot-data-registration-page.git
     cd registration-example
     mvn spring-boot:run
 
